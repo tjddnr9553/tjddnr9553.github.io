@@ -16,8 +16,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
   height: 100%;
   overflow-y: auto;
   width: v.$sidebar-width;
-  //background: var(--sidebar-bg);
-  background-image: url('/assets/img/avatar.webp');
+  background: var(--sidsebar-bg);
   border-right: 1px solid var(--sidebar-border-color);
 
   /* Hide scrollbar for IE, Edge and Firefox */
