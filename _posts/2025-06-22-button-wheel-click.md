@@ -1,5 +1,5 @@
 ---
-title: "<button>은 마우스 휠로 눌러도 새 탭이 나오지 않는 이유?"
+title: "`<button>`은 마우스 휠로 눌러도 새 탭이 나오지 않는 이유?"
 author: tjddnr9553
 date: 2025-07-08 09:30:00 +0900
 categories: [Editor]
